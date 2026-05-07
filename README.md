@@ -1,5 +1,7 @@
 # Advisor Ledger(学术黑榜镜像)
 
+**新：可快速手动添加、只能添加不能删除的、AI自动总结的红黑榜: https://append.page/p/advisors**
+
 **新：openreview版本黑榜：https://openadvisor.pages.dev/**
 
 只增不减地镜像社区维护的"学术黑榜 / Advisor Red Flags Notes" Google Doc,记录每一次编辑,保留每一次删除。
